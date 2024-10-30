@@ -19,7 +19,7 @@ terraform init
 
 terraform plan
 
-1. **Apply Changes**
+3. **Apply Changes**
      Once you are satisfied with the plan, apply the changes to provision the resources. This command executes the actions defined in your plan and creates the infrastructure. Use the following command:
 
 terraform apply
