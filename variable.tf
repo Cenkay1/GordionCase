@@ -98,7 +98,7 @@ variable "aks_storage_class" {
   description = "The storage class to be used for AKS"
 }
 
-# The password for Graylog
+# The password for Graylog login
 variable "graylog_password" {
   type        = string
   description = "The password for Graylog"
